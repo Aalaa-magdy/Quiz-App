@@ -1,0 +1,90 @@
+*{
+  box-sizing: bordero-box;
+}
+.container{
+  width:80%;
+  margin:auto; 
+}
+body{
+  background-color: #eee;
+}
+.header{
+  text-align: center;
+  color:#5022c3;
+  font-size:2rem;
+}
+.loader {
+  width: 48px;
+  height: 48px;
+  border: 5px solid hsl(266, 85%, 57%);
+  border-bottom-color: #b167ed;
+  border-radius: 50%;
+  display: inline-block;
+  box-sizing: border-box;
+  animation: rotation 1s linear infinite;
+}
+@keyframes rotation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.loading{
+  text-align: center;
+}
+.error{
+  text-align: center;
+  background-color: #ddd;
+  padding:10px;
+}
+.welcome-page {
+  text-align: center;
+}
+
+.btn {
+  border: none;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.start-btn {
+  background-color: #2a2a2a;
+  color: #fff;
+  font-weight: bold;
+}
+
+.btn-option {
+  width: 100%;
+  background-color: rgb(177, 143, 239);
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.btn-option:hover {
+  background-color: rgb(239, 154, 242);
+}
+
+.correct {
+  background-color: lightgreen;
+}
+
+.wrong {
+  background-color: red;
+}
+
+.finish {
+  text-align: center;
+  font-weight: bold;
+  background-color: rgb(202, 148, 241);
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.timer {
+  border: 1px solid #000;
+  padding: 5px 10px;
+  border-radius: 20px;
+  margin-top: 15px;
+}

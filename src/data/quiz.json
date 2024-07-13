@@ -1,0 +1,169 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "answers": [
+        "Berlin",
+        "Madrid",
+        "Paris",
+        "Rome"
+      ],
+      "correct_answer": "Paris",
+      "points":10
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "answers": [
+        "Earth",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correct_answer": "Mars",
+      "points":10
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "answers": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
+      ],
+      "correct_answer": "Pacific Ocean",
+      "points":10
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "answers": [
+        "Harper Lee",
+        "J.K. Rowling",
+        "Ernest Hemingway",
+        "Mark Twain"
+      ],
+      "correct_answer": "Harper Lee",
+      "points":10
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "answers": [
+        "H2O",
+        "CO2",
+        "O2",
+        "NaCl"
+      ],
+      "correct_answer": "H2O",
+      "points":10
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "answers": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correct_answer": "2",
+      "points":10
+    },
+    {
+      "question": "What is the speed of light?",
+      "answers": [
+        "300,000 km/s",
+        "150,000 km/s",
+        "450,000 km/s",
+        "600,000 km/s"
+      ],
+      "correct_answer": "300,000 km/s",
+      "points":10
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "answers": [
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Leonardo da Vinci",
+        "Claude Monet"
+      ],
+      "correct_answer": "Leonardo da Vinci",
+      "points":10
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "answers": [
+        "Nucleus",
+        "Ribosome",
+        "Mitochondria",
+        "Endoplasmic Reticulum"
+      ],
+      "correct_answer": "Mitochondria",
+      "points":10
+    },
+    {
+      "question": "Which element has the atomic number 1?",
+      "answers": [
+        "Helium",
+        "Oxygen",
+        "Hydrogen",
+        "Nitrogen"
+      ],
+      "correct_answer": "Hydrogen",
+      "points":10
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "answers": [
+        "Beijing",
+        "Seoul",
+        "Tokyo",
+        "Bangkok"
+      ],
+      "correct_answer": "Tokyo",
+      "points":10
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "answers": [
+        "China",
+        "Japan",
+        "South Korea",
+        "India"
+      ],
+      "correct_answer": "Japan",
+      "points":10
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "answers": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Nikola Tesla",
+        "Galileo Galilei"
+      ],
+      "correct_answer": "Albert Einstein",
+      "points":10
+    },
+    {
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "answers": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon Dioxide",
+        "Nitrogen"
+      ],
+      "correct_answer": "Carbon Dioxide",
+      "points":10
+    },
+    {
+      "question": "What is the main ingredient in guacamole?",
+      "answers": [
+        "Tomato",
+        "Onion",
+        "Avocado",
+        "Pepper"
+      ],
+      "correct_answer": "Avocado",
+      "points":10
+    }
+  ]
+}
